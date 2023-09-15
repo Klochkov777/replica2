@@ -29,7 +29,7 @@
 
 ### Задание 2
 
-* [горизонтальный шардинг]()
-* [вертикальный шардинг]()
+* [горизонтальный шардинг](https://github.com/Klochkov777/replica2/blob/master/screens/1.png)
+* [вертикальный шардинг](https://github.com/Klochkov777/replica2/blob/master/screens/2.png)
 
 
